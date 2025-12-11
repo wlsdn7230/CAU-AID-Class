@@ -58,3 +58,8 @@ Predicted Label: Virginica
 This project is licensed under the [MIT License](LICENSE).
 
 ---
+
+## Author
+- Name: 최진우
+- GitHub: https://github.com/wlsdn7230/CAU-AID-Class
+
