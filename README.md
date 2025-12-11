@@ -63,7 +63,7 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## Author
-Developed by (최진우)[] 
+Developed by [최진우]()
 
 
 
